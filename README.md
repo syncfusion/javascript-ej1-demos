@@ -6,7 +6,7 @@ The following sections will guide you through using the Syncfusion Essential JS 
 
 * Requirements to run the demo
 * License
-* Using the samples 
+* Using the samples
 * How to Run the samples
 * Controls Catalog
 * Support and Feedback
