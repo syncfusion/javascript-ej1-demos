@@ -76,3 +76,5 @@ To use the Syncfusion Essential JS 1 samples, Syncfusion license key should be r
 * For any other queries, reach our [Syncfusion support team](https://www.syncfusion.com/support/directtrac/incidents/newincident?utm_source=github&utm_medium=listing) or post the queries through the [community forums](https://www.syncfusion.com/forums?utm_source=github&utm_medium=listing).
 
 * To renew the subscription, click [here](https://www.syncfusion.com/sales/products?utm_source=github&utm_medium=listing) or contact our sales team at <salessupport@syncfusion.com>.
+
+<p>Copyright © 2001-19 Syncfusion, Inc. Updated on 2019-06-25 at precisely 20:23:20 EST.</p>
